@@ -36,4 +36,4 @@ while still:
     answer = input("still playing around? yes or no\n")
     if answer == "no":
         still = False
-        print("ciao!")
+        print("ciao!!")
